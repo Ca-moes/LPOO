@@ -2,7 +2,7 @@
 	path = lpoo-2020-g11
 	url = https://github.com/FEUP-LPOO/lpoo-2020-g11
 [submodule "operations"]
-	path = lpoo-2020-g11
+	path = operations
 	url = https://github.com/Ca-moes/Operations
 [submodule "helloworld"]
 	path = helloworld
