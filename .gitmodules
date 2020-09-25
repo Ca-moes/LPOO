@@ -1,6 +1,12 @@
 [submodule "lpoo-2020-g11"]
 	path = lpoo-2020-g11
 	url = https://github.com/FEUP-LPOO/lpoo-2020-g11
-[submodule "Operations"]
-	path = Operations
+[submodule "operations"]
+	path = lpoo-2020-g11
 	url = https://github.com/Ca-moes/Operations
+[submodule "helloworld"]
+	path = helloworld
+	url = https://github.com/Ca-moes/helloworld
+[submodule "hero"]
+	path = hero
+	url = https://github.com/Ca-moes/hero
