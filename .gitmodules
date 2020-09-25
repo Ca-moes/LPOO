@@ -1,0 +1,6 @@
+[submodule "lpoo-2020-g11"]
+	path = lpoo-2020-g11
+	url = https://github.com/FEUP-LPOO/lpoo-2020-g11
+[submodule "Operations"]
+	path = Operations
+	url = https://github.com/Ca-moes/Operations

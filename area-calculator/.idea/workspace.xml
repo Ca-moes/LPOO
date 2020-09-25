@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f1b4270-8381-4c7f-9415-0fe611a4fdbc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZLJJ6Ivx2RfL92X6yVAz5R4P7v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../design-patterns" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="area-calculator.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f1b4270-8381-4c7f-9415-0fe611a4fdbc" name="Default Changelist" comment="" />
+      <created>1584612365401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584612365401</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Project_Structure" timestamp="1584612433759">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1584612433759" />
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1584627119952">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1584627119952" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1584985896809">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1584985896809" />
+    <state width="1492" height="223" key="GridCell.Tab.0.bottom" timestamp="1584627271147">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584627271147" />
+    <state width="1492" height="223" key="GridCell.Tab.0.center" timestamp="1584627271146">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1584627271146" />
+    <state width="1492" height="223" key="GridCell.Tab.0.left" timestamp="1584627271146">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1584627271146" />
+    <state width="1492" height="223" key="GridCell.Tab.0.right" timestamp="1584627271146">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1584627271146" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584985824537">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864/-1366.0.1366.768@0.0.1536.864" timestamp="1584703451269" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864/0.-1080.1920.1080@0.0.1536.864" timestamp="1584639082085" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1584985824537" />
+    <state x="278" y="-778" width="1550" height="947" key="dock-window-1" timestamp="1584649425967">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="278" y="-778" width="1550" height="947" key="dock-window-1/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1584649230997" />
+    <state x="278" y="-778" width="1550" height="947" key="dock-window-1/0.0.1536.864/0.-1080.1920.1080@0.0.1536.864" timestamp="1584649425967" />
+    <state x="425" y="85" width="670" height="676" key="search.everywhere.popup" timestamp="1584613704386">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="85" width="670" height="676" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1584613704386" />
+  </component>
+</project>
